@@ -52,6 +52,3 @@ This project implements a ROS 1 pipeline to detect, track, and drive toward LED 
     ```bash
     rosrun your_package_name sync_drive_LED.py
     
-## Author
-
-This project was completed Mahmudul Hassan Nashim.
