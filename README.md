@@ -21,7 +21,6 @@ This project implements a ROS 1 pipeline to detect, track, and drive toward LED 
 - Commands forward velocity (0.1 m/s) while above threshold; issues a stop command once within range
 - Uses rear-LED X-offset relative to the front LED midpoint to compute a turn/steering correction, enabling the robot to re-center itself while approaching
 
-## Project Files
 
 ## Results
 
